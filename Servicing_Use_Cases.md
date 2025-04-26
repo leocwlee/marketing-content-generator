@@ -1,5 +1,3 @@
-Okay, let's brainstorm AI use cases for handling customer complaints and inquiries in a commercial bank. We can categorize these by the stage of the process or the type of AI application.
-
 **I. Customer-Facing AI (Direct Interaction & Self-Service)**
 
 1.  **Intelligent Virtual Assistants (Chatbots/Voicebots):**
